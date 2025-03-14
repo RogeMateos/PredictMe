@@ -49,6 +49,12 @@ NextBlog is a lightweight blogging platform that leverages the latest React 19 a
 - Real-time results display
 - Responsive design with Tailwind CSS
 
+## API Credits
+This project uses the following free APIs:
+- [Agify.io](https://agify.io) - For age predictions
+- [Genderize.io](https://genderize.io) - For gender predictions
+- [Nationalize.io](https://nationalize.io) - For nationality predictions
+
 ## Getting Started
 
 First, run the development server:
