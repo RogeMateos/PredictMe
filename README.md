@@ -41,14 +41,13 @@ This is a modern blog application built with [Next.js 15](https://nextjs.org) an
 
 ## Project Overview
 
-NextBlog is a lightweight blogging platform that leverages the latest React 19 and Next.js 15 features, including:
+NextBlog is a lightweight blogging platform that leverages the latest React 19 and Next.js 15 features:
 
-- App Router architecture for optimized routing
-- Server Components for improved performance
-- Tailwind CSS v4 for modern styling
-- TypeScript for type safety
-
-[Add more specific details about your project's unique features, purpose, and any APIs or data sources you're using]
+- Age prediction using the Agify API
+- Gender prediction using the Genderize API
+- Nationality prediction using the Nationalize API
+- Real-time results display
+- Responsive design with Tailwind CSS
 
 ## Getting Started
 
